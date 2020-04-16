@@ -6,4 +6,4 @@
     * [4.1](April/4.1.md)
 
 * 代码练习
-    * [4.1cpp](Code/4.1cpp.md)
+    * [4.1cpp](Codes/4.1cpp.md)
