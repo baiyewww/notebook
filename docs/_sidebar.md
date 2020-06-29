@@ -1,9 +1,11 @@
 
 * [Home](/)
-* [我的第一篇博文](MyFirstPage.md)
-* 4月博文
+* [My first blog](MyFirstPage.md)
+* The blog of April
     * [4.1](April/4.1.md)
     * [4.2](April/4.2.md)
+* The blog of May
+    * [4.1](2020/May/leetcode/5-23.md)
 
-* 代码练习
+* code exercise
     * [4.1cpp](Codes/4.1cpp.md)
